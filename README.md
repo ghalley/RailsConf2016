@@ -101,3 +101,25 @@ Pairing interview
 Retention is important!
 
 tech.omadahealth.com
+
+## Small Team Culture Shock
+@sysadmin1138
+
+Pschological Safety
+
+Microaggressions make things harder
+- incompetence
+- willful ignorance
+
+Safety Methods:
+- Reflexive Change Resistance.  Raise concerns when not included in changes ahead of time.
+- Intentional Deinvestment. Stop caring? Symptom of a very broken culture.
+- Compartmentalization.  Sympathizing but not helping with others' problems
+- Bonding through negativity. Share pain
+
+1. Redirect - turn reflexive negativity into feedback
+2. Reengage - Get them to feel like a person and provide feedback
+3. Stop hurtful negativity - It doesn't help, put a stop to it.
+
+
+
