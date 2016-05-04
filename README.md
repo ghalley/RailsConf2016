@@ -159,3 +159,11 @@ Letting audience fill in the blanks
 giving the audience room to explore the way they want
 
 Michaelrau.com
+
+## Making a test framework from scratch
+
+zenspider.com/presentations/2016-railsconf.html
+
+github.com/zenspider/microtest
+
+learnenough.com
