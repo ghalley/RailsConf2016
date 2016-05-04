@@ -121,5 +121,41 @@ Safety Methods:
 2. Reengage - Get them to feel like a person and provide feedback
 3. Stop hurtful negativity - It doesn't help, put a stop to it.
 
+## Storytelling with Code
 
+Evoking feelings through stories
 
+"Temping"
+
+No actors
+- email
+- phone
+- laser printer
+- the built environment
+
+### The story
+- The audience is a temp
+- Cast of characters (still not actors)
+
+The temp needs tasks to do to drive the story.
+
+Starts with an excel spreadsheet
+- update alive/dead
+- update life expectancies
+    + tricked into looking at your own life expectancy
+
+### The Narrative Arc
+Ordering the events
+
+### Characterization
+Understanding why these people do things
+
+### Empathy
+
+### Imagination
+Letting audience fill in the blanks
+
+### Choices
+giving the audience room to explore the way they want
+
+Michaelrau.com
