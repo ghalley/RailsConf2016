@@ -175,5 +175,32 @@ learnenough.com
 @chenelle777
 http://www.slideshare.net/Chanelle7/rails-conference-presentation-2016-ux-rails-and-awesomeness
 
+## ActionCable
+
+### ActionCable is NOT:
+- for non-rails apps
+- step forward for more rails js integration
+
+### ActionCable IS:
+- solid feature for rails monoliths
+- a way to snapify rails, like turbolinks an js responses
+- easy and fun
+
+Chat apps are the hello world of websockets
+- doesn't inherently add value to an app
+- most apps don't need chat between users
+
+#### Use Cases
+1. Use Case: Collaboration
+2. Asynchronous Tasks
+
+### Modules
+1. Cable - actual connection
+2. Channel - what to listen for on the rails side
+3. Broadcast - send info out from rails through channel
+4. Subscription - client side listening and receiving data from server
+
+Best to always use ActionJob to broadcast, to help avoid missed messages
+no session, only cookies
 
 
