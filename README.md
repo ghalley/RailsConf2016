@@ -167,3 +167,6 @@ zenspider.com/presentations/2016-railsconf.html
 github.com/zenspider/microtest
 
 learnenough.com
+
+## Keynote: Nickolaus Means
+@nmeans
