@@ -205,6 +205,7 @@ no session, only cookies
 github.com/jwo
 
 ## Secrets of Testing Rails 5 Apps
+https://speakerdeck.com/chaitanya/secrets-of-testing-rails-5-apps
 
 ### Test Runner
 `bin/rails test`
