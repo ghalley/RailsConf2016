@@ -170,3 +170,10 @@ learnenough.com
 
 ## Keynote: Nickolaus Means
 @nmeans
+
+## Keynote: Chanelle Henry
+@chenelle777
+http://www.slideshare.net/Chanelle7/rails-conference-presentation-2016-ux-rails-and-awesomeness
+
+
+
