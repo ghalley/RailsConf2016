@@ -202,5 +202,31 @@ Chat apps are the hello world of websockets
 
 Best to always use ActionJob to broadcast, to help avoid missed messages
 no session, only cookies
+github.com/jwo
+
+## Secrets of Testing Rails 5 Apps
+
+### Test Runner
+`bin/rails test`
+
+Much better documentation
+
+Can run multiple specific tests!
+- groups by folder, too
+
+Backtrace option: `-b`
+
+Stop at first failure: `-f`
+
+Colored Output!
+- active by default
+
+Integration tests are much faster
+- deprecating controller tests since there is no diff in speed anymore
+
+Backward compatible tests!
+
+Rails 5 discourages testing controller view interface space
+
 
 
