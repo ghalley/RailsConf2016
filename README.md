@@ -228,5 +228,8 @@ Backward compatible tests!
 
 Rails 5 discourages testing controller view interface space
 
+## Rspec and Rails 5
+@searls
+
 
 
