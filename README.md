@@ -232,5 +232,11 @@ Rails 5 discourages testing controller view interface space
 ## Rspec and Rails 5
 @searls
 
+## Keynote: Aaron Patterson
+Performance is always about tradeoffs
+
+Why not speed up ruby?
+- no need to write slow code elsewhere
+
 
 
